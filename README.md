@@ -1,2 +1,29 @@
-# TokenStealer
-C# Token Stealer | Learn Project
+# Token Stealer
+```diff
+- Supported Browsers
+{
+• Discord App
+• Discord Canary
+• Discord PTB
+• Chrome
+• Chrome Beta
+• FireFox
+• Opera
+• OperaGX
+• Edge
+• Yandex
+• Brave
+• EpicPrivacy
+• ThreeHundredSixty
+• CocCoc
+}
+- Rules
+{
+• Dont Sell it!
+}
+
+- Readme Credits
+{
+• Itroublve
+}
+```
