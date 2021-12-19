@@ -14,8 +14,6 @@
 • Yandex
 • Brave
 • EpicPrivacy
-• ThreeHundredSixty
-• CocCoc
 }
 
 - Rules
