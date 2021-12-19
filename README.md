@@ -22,6 +22,11 @@
 • Dont Sell it!
 }
 
+- Tutorial
+{
+• Paste your Webhook in "Config.cs"
+}
+
 - Readme Credits
 {
 • Itroublve
